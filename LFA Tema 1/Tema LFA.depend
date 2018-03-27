@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1520336245 source:c:\users\user\desktop\tema lfa\main.cpp
+	<iostream>
+	<fstream>
+
+1520442685 source:c:\users\user\desktop\tema lfa - copy\main.cpp
+	<iostream>
+	<fstream>
+
+1520446233 source:c:\users\user\desktop\lfa tema 1\main.cpp
+	<iostream>
+	<fstream>
+
+1521661882 source:c:\users\user\desktop\lfa tema 1 - copy\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
