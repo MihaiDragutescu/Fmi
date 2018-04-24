@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1524573701 source:c:\users\user\desktop\poo, tema 2, problema 8\main.cpp
+	<iostream>
+	"Polinom.h"
+
+1524573219 source:c:\users\user\desktop\poo, tema 2, problema 8\src\polinom.cpp
+	"Polinom.h"
+	<cmath>
+
+1524573458 c:\users\user\desktop\poo, tema 2, problema 8\include\polinom.h
+	<iostream>
+
