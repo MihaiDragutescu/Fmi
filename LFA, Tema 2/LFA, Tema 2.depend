@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1526450827 source:c:\users\student.lab221a-6\desktop\lfa, tema 2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<algorithm>
+	<sstream>
+
+1526458018 source:f:\lfa, tema 2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<algorithm>
+	<sstream>
+
+1526459682 source:g:\lfa, tema 2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<algorithm>
+	<sstream>
+
