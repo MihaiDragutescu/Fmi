@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1385320478 source:d:\134\test2poo\poo, tema 3, problema 6\main.cpp
+	<iostream>
+
+1385320478 source:g:\ \poo, tema 3, problema 6\main.cpp
+	<iostream>
+
+1525609188 source:g:\ \poo, tema 3, problema 6\src\farmacie.cpp
+	"Farmacie.h"
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<stdexcept>
+	<stdio.h>
+
+1525610452 g:\ \poo, tema 3, problema 6\include\farmacie.h
+	<iostream>
+
+1526815028 source:c:\users\user\desktop\poo, tema 3, problema 6\main.cpp
+	<iostream>
+	"Farmacie.h"
+	<cstring>
+	<sstream>
+	<stdexcept>
+
+1526821864 source:c:\users\user\desktop\poo, tema 3, problema 6\src\farmacie.cpp
+	"Farmacie.h"
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<stdexcept>
+	<stdio.h>
+	<sstream>
+
+1526591260 c:\users\user\desktop\poo, tema 3, problema 6\include\farmacie.h
+	<iostream>
+	<vector>
+
+1526815028 source:c:\users\user\desktop\poo, tema 3, problema 6\poo, tema 3, problema 6\main.cpp
+	<iostream>
+	"Farmacie.h"
+	<cstring>
+	<sstream>
+	<stdexcept>
+
+1526591260 c:\users\user\desktop\poo, tema 3, problema 6\poo, tema 3, problema 6\include\farmacie.h
+	<iostream>
+	<vector>
+
+1526821864 source:c:\users\user\desktop\poo, tema 3, problema 6\poo, tema 3, problema 6\src\farmacie.cpp
+	"Farmacie.h"
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<stdexcept>
+	<stdio.h>
+	<sstream>
+
+1526821864 source:c:\users\user\desktop\poo\poo, tema 3, problema 6\poo, tema 3, problema 6\src\farmacie.cpp
+	"Farmacie.h"
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<stdexcept>
+	<stdio.h>
+	<sstream>
+
+1526591260 c:\users\user\desktop\poo\poo, tema 3, problema 6\poo, tema 3, problema 6\include\farmacie.h
+	<iostream>
+	<vector>
+
