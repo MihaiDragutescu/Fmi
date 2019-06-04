@@ -1,0 +1,16 @@
+lantul (afisat invers -tema de modificat): 8 4 3 2 1  capacitate 3
+lantul (afisat invers -tema de modificat): 8 4 7 5 1  capacitate 1
+lantul (afisat invers -tema de modificat): 8 6 3 4 7 5 1  capacitate 2
+-----------------------------------------
+valoarea fluxului maxim = 6
+un flux maxim: 
+arcul 1 2 flux 3
+arcul 1 5 flux 3
+arcul 2 3 flux 3
+arcul 3 4 flux 1
+arcul 3 6 flux 2
+arcul 4 8 flux 4
+arcul 5 7 flux 3
+arcul 6 8 flux 2
+arcul 7 2 flux 0
+arcul 7 4 flux 3

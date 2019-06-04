@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1533586825 source:c:\users\user\desktop\ag\prim neterminat\main.cpp
+	<fstream>
+	<iostream>
+	<algorithm>
+	<set>
+	<vector>
+
+1533904819 source:c:\users\user\desktop\ag\prim\main.cpp
+	<fstream>
+	<iostream>
+	<algorithm>
+	<set>
+	<vector>
+
+1535124678 source:c:\users\user\desktop\sem 2\ag\probleme laborator\prim\main.cpp
+	<fstream>
+	<iostream>
+	<algorithm>
+	<set>
+	<vector>
+

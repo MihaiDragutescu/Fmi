@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1533386933 source:c:\users\user\desktop\ag\kruskal\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1533387749 source:c:\users\user\desktop\ag\kruskal cu paduri disjuncte\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1536080999 source:c:\users\user\desktop\sem 2\ag\probleme laborator\kruskal cu paduri disjuncte\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

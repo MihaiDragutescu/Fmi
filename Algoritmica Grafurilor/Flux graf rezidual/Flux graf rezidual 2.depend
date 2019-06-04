@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1533830583 source:c:\users\user\desktop\ag\flux graf rezidual 2\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<cstring>
+
+1533833136 source:c:\users\user\desktop\sem 2\ag\probleme laborator\flux graf rezidual 2\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<cstring>
+
+1533833136 source:c:\users\user\desktop\sem 2\ag\probleme laborator\flux graf rezidual 2(pe asta il folosesc)\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<cstring>
+

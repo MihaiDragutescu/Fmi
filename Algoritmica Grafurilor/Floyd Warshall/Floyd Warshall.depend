@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1533906684 source:c:\users\user\desktop\ag\floyd warshall\main.cpp
+	<iostream>
+	<fstream>
+	<climits>
+
+1535071629 source:c:\users\user\desktop\sem 2\ag\probleme laborator\floyd warshall\main.cpp
+	<iostream>
+	<fstream>
+	<climits>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1533213043 source:c:\users\user\desktop\ag\dijkstra\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<limits.h>
+
+1533551407 source:c:\users\user\desktop\ag\drumuri minime aciclice\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+
+1535964974 source:c:\users\user\desktop\sem 2\ag\probleme laborator\drumuri minime aciclice\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+

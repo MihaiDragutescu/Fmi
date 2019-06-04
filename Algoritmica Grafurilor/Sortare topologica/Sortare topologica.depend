@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1533561504 source:c:\users\user\desktop\ag\sortare topologica\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+
+1533638621 source:c:\users\user\desktop\ag\sortare topologica !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1533852078 source:c:\users\user\desktop\ag\centru,diametru,raza\main.cpp
+	<fstream>
+	<vector>
+	<iostream>
+	<queue>
+
+1536121792 source:c:\users\user\desktop\sem 2\ag\probleme laborator\centru,diametru,raza\main.cpp
+	<fstream>
+	<vector>
+	<iostream>
+	<queue>
+

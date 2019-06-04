@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1533032962 source:c:\users\user\desktop\ag\havel hakimi\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<list>
+	<algorithm>
+
+1533213209 source:c:\users\user\desktop\ag\havel hakimi cu sort\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<list>
+	<algorithm>
+
+1535032571 source:c:\users\user\desktop\sem 2\ag\probleme laborator\havel hakimi cu sort\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<list>
+	<algorithm>
+

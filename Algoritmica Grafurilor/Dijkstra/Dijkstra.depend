@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1533213043 source:c:\users\user\desktop\ag\dijkstra\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<limits.h>
+
+1533903453 source:c:\users\user\desktop\ag\dijkstra!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\main.cpp
+	<fstream>
+	<iostream>
+	<algorithm>
+	<set>
+	<vector>
+
+1536088331 source:c:\users\user\desktop\sem 2\ag\probleme laborator\dijkstra\main.cpp
+	<fstream>
+	<iostream>
+	<algorithm>
+	<set>
+	<vector>
+
