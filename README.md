@@ -1,1 +1,1 @@
-Diferite proiecte/teme de facultate 
+Diferite proiecte/teme de facultate.
